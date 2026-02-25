@@ -39,3 +39,12 @@ python app.py
 | GET    | /patients/<id> | Get patient by ID |
 | PUT    | /patients/<id> | Update patient    |
 | DELETE | /patients/<id> | Delete patient    |
+
+##  What I Learned
+
+- REST API development using Flask  
+- Database integration using SQLAlchemy  
+- Data validation using Pydantic  
+- CRUD operations  
+- Git version control & GitHub workflow  
+- Backend project structuring
